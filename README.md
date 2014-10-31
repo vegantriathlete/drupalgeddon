@@ -23,5 +23,6 @@ Here is a starting list of resources:
 * [Modules unraveled video](https://modulesunraveled.com/blog/how-restore-your-hacked-site)
 * [Zion Security Blog post](https://www.zionsecurity.com/blog/2014/10/automated-exploiting-and-backdooring-drupal-7-web-servers)
 * [Hacked module](https://www.drupal.org/project/hacked)
+* [Diff module](https://www.drupal.org/project/diff)
 * [Drupalgeddon project](https://www.drupal.org/project/drupalgeddon)
 * [Site Audit project](https://www.drupal.org/project/site_audit)
