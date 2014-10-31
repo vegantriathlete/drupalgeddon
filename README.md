@@ -22,3 +22,6 @@ Here is a starting list of resources:
 * [Flowchart of steps to follow](http://drupal.geek.nz/blog/your-drupal-website-has-backdoor)
 * [Modules unraveled video](https://modulesunraveled.com/blog/how-restore-your-hacked-site)
 * [Zion Security Blog post](https://www.zionsecurity.com/blog/2014/10/automated-exploiting-and-backdooring-drupal-7-web-servers)
+* [Hacked module](https://www.drupal.org/project/hacked)
+* [Drupalgeddon project](https://www.drupal.org/project/drupalgeddon)
+* [Site Audit project](https://www.drupal.org/project/site_audit)
