@@ -26,4 +26,5 @@ Here is a starting list of resources:
 * [Diff module](https://www.drupal.org/project/diff)
 * [Drupalgeddon project](https://www.drupal.org/project/drupalgeddon)
 * [Site Audit project](https://www.drupal.org/project/site_audit)
+* [Befused blog post](http://befused.com/drupal/drupalgeddon)
 * [10 commands that could help you to survive Drupageddon](http://www.paulbooker.co.uk/drupal-developer/code-snippet/10-commands-could-help-you-survive-drupageddon)
